@@ -1,6 +1,4 @@
-# \# My App
+# My App
 
-# This is a sample Python project.
-
-
+This is a sample Python project.
 
